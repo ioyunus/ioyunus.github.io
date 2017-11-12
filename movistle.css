@@ -1,0 +1,48 @@
+body{	
+	background: url("film-background-13340679666UC.jpg");
+	background-size: 50%;
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	font-family: cursive;
+	font-size: 30pt;
+	color: #00FFFF;
+	text-align: center;
+}
+
+h2{
+	font-family: Comic Sans MS;
+	font-size: 30pt;
+	color: #00FFFF;
+	
+}
+
+p{
+	font-family: Comic Sans MS;
+	font-size: 15pt;
+	color: #00FFFF;
+	
+}
+
+input.MyButton {
+width: 300px;
+padding: 20px;
+cursor: pointer;
+font-weight: bold;
+font-size: 150%;
+background: #1C1C1C;
+color: #fff;
+border: 1px solid #1C1C1C;
+border-radius: 10px;
+}
+input.MyButton:hover {
+color: #FFFFFF;
+background: #000;
+border: 1px solid #fff;
+}
+
+
